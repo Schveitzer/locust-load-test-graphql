@@ -21,7 +21,7 @@ $ pip install locust
 Export API Key:
 
 ```bash
-$ export API_KEY=BQYB1jH8KufYHYRfNOOXE3IAATpdjQEE
+$ export API_KEY=YOUKEYHERE
 ```
 
 Execute Locust
