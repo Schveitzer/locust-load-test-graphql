@@ -1,4 +1,4 @@
-#Load Testing a GraphQL API with Locust in Python
+# Load Testing a GraphQL API with Locust in Python
 
 Example of load testing with locust in a grapql api in Python
 
